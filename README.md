@@ -152,9 +152,9 @@ const videos = [
 ## 📞 للاتصال
 
 **UMAR DECORATION**
-- 📱 الهاتف: +966 XX XXX XXXX
-- 📧 البريد: info@umardecoration.com
-- 🌐 الموقع: https://www.umardecoration.com
+- 📱 الهاتف: +213666990262
+- 📧 البريد: Omarkhelifi302@gmail.com
+- 🌐 الموقع: https://umardecoration.github.io
 - 📍 الموقع: المملكة العربية السعودية
 
 ---
