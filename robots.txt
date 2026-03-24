@@ -12,7 +12,7 @@ Allow: /style.css
 Allow: /script.js
 
 # ملف الخريطة الموقعية
-Sitemap: https://www.umardecoration.com/sitemap.xml
+Sitemap: https://https://umardecoration.github.io/sitemap.xml
 
 # وقت الانتظار بين طلبات المحرك (بالثواني)
 Crawl-delay: 1
