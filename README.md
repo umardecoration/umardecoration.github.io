@@ -55,12 +55,10 @@ UMAR DECORATION/
 ```
 
 **الأماكن التي تحتاج تعديل:**
-- **رقم الهاتف**: ابحث عن `+966 XX XXX XXXX`
-- **البريد الإلكتروني**: ابحث عن `info@umardecoration.com`
+- **رقم الهاتف**: ابحث عن `+213666990262`
+- **البريد الإلكتروني**: ابحث عن ` Omarkhelifi302@gmail.com`
 - **الفيسبوك**: غيّر `https://facebook.com/umar-decoration`
-- **الإنستغرام**: غيّر `https://instagram.com/umar-decoration`
-- **واتساب**: غيّر `https://wa.me/+xxxxxxxxxxxx`
-- **تيك توك**: غيّر `https://tiktok.com/@umar-decoration`
+- **واتساب**: غيّر `https://wa.me/+213666990262`
 
 ### 2️⃣ تعديل الألوان
 
@@ -155,7 +153,7 @@ const videos = [
 - 📱 الهاتف: +213666990262
 - 📧 البريد: Omarkhelifi302@gmail.com
 - 🌐 الموقع: https://umardecoration.github.io
-- 📍 الموقع: المملكة العربية السعودية
+- 📍 الموقع: أولاد رشاش خنشلة
 
 ---
 
