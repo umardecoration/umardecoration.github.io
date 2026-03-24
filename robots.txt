@@ -1,0 +1,22 @@
+# User-agent: *
+# السماح لجميع المحركات بالزحف
+
+# تجنب الزحف عند الحاجة
+# Disallow: /admin/
+# Disallow: /private/
+
+# اسمح بالزحف للملفات المهمة
+Allow: /
+Allow: /data/
+Allow: /style.css
+Allow: /script.js
+
+# ملف الخريطة الموقعية
+Sitemap: https://www.umardecoration.com/sitemap.xml
+
+# وقت الانتظار بين طلبات المحرك (بالثواني)
+Crawl-delay: 1
+
+# اقتراحات لمحرك البحث Google
+# User-agent: Googlebot
+# Crawl-delay: 0
